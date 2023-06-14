@@ -15,8 +15,8 @@ Anaconda - Python 3.7
 ## PROGRAM:
 ```
 '''Program to count the words in a file
-Developed by: R.THIVAKAR
-Register Number: 212222240109
+Developed by: S.Shashin prasad
+Register Number: 212222230144
 '''
 fname=input("enter the file name")
 num_words=0
@@ -28,6 +28,7 @@ print('Number of words: ',num_words)
 ```
 ### OUTPUT:
 
+![WhatsApp Image 2023-06-14 at 14 39 11](https://github.com/shashinprasad/Word-count/assets/129143499/a26a9371-61b3-4387-aad2-3a2eb73e4e5e)
 
 
 ## RESULT:
